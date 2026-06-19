@@ -40,3 +40,8 @@ a:hover {
     text-decoration: underline;
     color: rgb(26, 26, 255);
 }
+
+article iframe {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+}
